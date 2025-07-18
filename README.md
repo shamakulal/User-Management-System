@@ -1,6 +1,6 @@
-<h2>🚀 Project Title</hr>
-<h3>React CRUD App</h3>
-<p>A simple and elegant CRUD (Create, Read, Update, Delete) application built with React and Material-UI. It allows users to add, view, edit, and delete user information. The backend is powered by json-server for demo purposes.</p>
+🚀 Project Title
+React CRUD App
+A simple and elegant CRUD (Create, Read, Update, Delete) application built with React and Material-UI. It allows users to add, view, edit, and delete user information. The backend is powered by json-server for demo purposes.
 
 🧩 Features
 ➕ Add a new user
@@ -15,8 +15,6 @@
 https://subtle-speculoos-353c5a.netlify.app/
 
 ⚙️ Installation & Setup
-Clone the repository:
-git clone https://github.com/your-username/crud-app.git
 cd crud-app
 
 Install dependencies:
