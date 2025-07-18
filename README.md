@@ -11,6 +11,9 @@
 🎨 Styled using Material-UI components
 ⚡ Mock API using json-server
 
+📸 Demo
+https://subtle-speculoos-353c5a.netlify.app/
+
 ⚙️ Installation & Setup
 Clone the repository:
 git clone https://github.com/your-username/crud-app.git
